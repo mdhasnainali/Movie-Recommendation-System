@@ -8,7 +8,7 @@ This project implements a movie recommendation system using a content-based appr
 
 ## View
 
-![View](./gif/view.gif)
+![View](./gif/views.gif)
 
 ## Dependencies
 

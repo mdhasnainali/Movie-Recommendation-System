@@ -8,7 +8,7 @@ This project implements a movie recommendation system using a content-based appr
 
 ## View
 
-![View]('./gif/view.gif)
+![View](./gif/view.gif)
 
 ## Dependencies
 
@@ -38,6 +38,7 @@ The dataset used for this project is the "TMDB 5000 Movie Dataset," containing i
 git clone https://github.com/mdhasnainali/Movie-Recommendation-System.git
 cd movie-recommendation-system
 ```
+
 2. Run the Streamlit app:
 
 3. Run the notebook
